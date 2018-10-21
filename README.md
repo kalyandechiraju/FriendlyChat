@@ -1,6 +1,6 @@
-# friendly_chat
+# Friendly Chat
 
-A new Flutter project.
+A demo Flutter project.
 
 ## Getting Started
 
